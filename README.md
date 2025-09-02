@@ -1,4 +1,2 @@
 # Git-Tests
-
-nicolas lopes miranda
-RA: 24032929
+repositório para testes de comando git
